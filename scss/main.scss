@@ -1,0 +1,11 @@
+$colorb:#000;
+$colorw:#eee;
+
+
+body{
+    background-color: $colorb;
+    color: $colorw;
+    h1{
+        display: flex;
+    }
+}
